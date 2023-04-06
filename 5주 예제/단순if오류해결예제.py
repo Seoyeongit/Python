@@ -1,4 +1,4 @@
-
+# 오류예제와 다른 점 : float를 사용하지 않아서 오류 발생
 jumsu=float(input("Enter you score : "))    # float 함수를 이용하여 문자열을 실수로 형 변환 
 
 if jumsu >= 4.2 :                           # 관계 연산자를 사용하여 비교 
